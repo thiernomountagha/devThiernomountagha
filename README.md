@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<img src="https://drive.google.com/file/d/1L9DLAN7gsjGFPvIz9rkLbYIOLnX6qHJJ/view?usp=drive_link" alt="Profile Image" width="200px" style="border-radius:50%;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fimages&psig=AOvVaw1f95n2G_mQc9L8kC05D7AW&ust=1721816810467000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDYlc35vIcDFQAAAAAdAAAAABAE" alt="Profile Image" width="200px" style="border-radius:50%;">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
